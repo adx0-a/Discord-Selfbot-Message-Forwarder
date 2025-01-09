@@ -31,8 +31,13 @@ To get Your Real Account Token See [that](https://stackoverflow.com/questions/67
 
 Run the script:
 ```
-cd src
-python main.py
+for windows :
+    cd src
+    python main.py
+
+for linux use :
+    cd src
+    python3 main .py
 ```
 
 Usage
